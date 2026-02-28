@@ -1,0 +1,20 @@
+
+{
+  "name": "configurable",
+  "version": "0.0.1",
+  "description": "Configuration mixin",
+  "keywords": [
+    "configuration"
+  ],
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drylikov/configurable.js.git"
+  }
+}
