@@ -1,4 +1,4 @@
-# configurable
+# Configurable
 
   Configuration mixin.
 
