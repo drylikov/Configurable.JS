@@ -36,4 +36,3 @@ __NOTE__: when assigning to a `.prototype` make sure to re-define `.settings = {
 in the constructor so objects do not share these values.
 
 
-
